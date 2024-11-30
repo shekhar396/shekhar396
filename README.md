@@ -16,4 +16,4 @@ I’m a **Software Engineer** skilled in backend development, DevOps, and cloud-
 ## 📫 Let’s Connect  
 
 - [LinkedIn](https://www.linkedin.com/in/mia-abdullah-shekhar/)  
-- 📧 [shkhrabdullah@gmail.com](mailto:shkhrabdullah@gmail.com)  
+- [shkhrabdullah@gmail.com](mailto:shkhrabdullah@gmail.com)  
