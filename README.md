@@ -1,25 +1,57 @@
-# 👋 Assalamu Alaikum, I’m Mia Abdullah Shekhar
+# 👋 Assalamu Alaikum, I'm Mia Abdullah Shekhar
 
-🚀 DevOps & Backend Engineer focused on cloud infrastructure, CI/CD automation, scalable backend systems, and production reliability.
+### Senior Backend & DevOps Engineer | Cloud Infrastructure | Platform Reliability | CI/CD Automation
 
-I specialize in building and maintaining modern backend platforms, deployment pipelines, monitoring systems, and cloud-native infrastructure with a strong focus on operational excellence and engineering judgment.
+I am a software and infrastructure engineer with experience designing, building, deploying, and operating production systems across backend engineering, DevOps, cloud infrastructure, and platform operations.
 
----
-
-## ☁️ Current Focus
-
-* AWS Cloud & DevOps Engineering
-* CI/CD & Infrastructure Automation
-* Production Monitoring & Alerting
-* Scalable Backend Architecture
-* Linux & Cloud Operations
-* Platform Reliability Engineering
+My work spans scalable backend services, deployment automation, observability platforms, cloud architecture, and production reliability. I enjoy solving operational challenges, reducing deployment risk, improving system visibility, and building engineering platforms that enable teams to deliver software safely and efficiently.
 
 ---
 
-## 🔧 Tech Stack
+## What I Do
 
-### 🚀 Backend Engineering
+* Design and operate production-grade backend systems
+* Build CI/CD pipelines and deployment automation
+* Implement zero-downtime deployment strategies
+* Develop monitoring, logging, and observability platforms
+* Improve infrastructure reliability and operational efficiency
+* Lead technical initiatives from architecture through production delivery
+
+---
+
+## Core Expertise
+
+### Platform & DevOps Engineering
+
+* CI/CD Automation
+* Release Engineering
+* Infrastructure as Code
+* Linux Systems Administration
+* Production Operations
+* Reliability Engineering
+* Deployment Automation
+* Incident Response & Troubleshooting
+
+### Cloud & Infrastructure
+
+* AWS Architecture
+* Compute & Networking
+* Security & Identity Management
+* Storage & Database Services
+* High Availability & Scalability
+* Cost Optimization
+* Disaster Recovery Planning
+
+### Observability
+
+* Metrics Collection
+* Monitoring & Alerting
+* Centralized Logging
+* Performance Analysis
+* Capacity Planning
+* Operational Visibility
+
+### Backend Engineering
 
 * Golang
 * Python
@@ -27,98 +59,106 @@ I specialize in building and maintaining modern backend platforms, deployment pi
 * FastAPI
 * Django
 * REST APIs
+* Distributed Systems
 * Microservices Architecture
-
-### ⚙️ DevOps & Platform Engineering
-
-* Jenkins
-* GitLab CI/CD
-* GitHub Actions
-* Docker
-* Kubernetes
-* Nginx
-* Linux Server Administration
-
-### ☁️ Cloud & Infrastructure
-
-* AWS EC2
-* AWS S3
-* AWS IAM
-* AWS VPC
-* Route53
-* CloudFront
-* RDS
-* Auto Scaling
-
-### 📊 Monitoring & Observability
-
-* Prometheus
-* Grafana
-* System Monitoring
-* Alerting Systems
-* Log & Infrastructure Monitoring
-
-### 🗄️ Databases & Tools
-
-* PostgreSQL
-* MySQL
-* Redis
-* Git
-* Terraform *(Learning & Building)*
 
 ---
 
-## 🚀 Featured Project
+## Selected Projects
 
-### 🔹 OpsPilot AI
+### Zero-Downtime CI/CD Deployment Template
 
-AI-powered DevOps monitoring and alerting platform designed for modern infrastructure operations.
+A reusable blue-green deployment framework for Linux-based applications focused on reliability, automated rollback safety, health validation, and production deployment consistency.
 
-#### Features
+**Highlights**
+
+* Blue-green deployment architecture
+* Automated health verification
+* Release version management
+* Safe deployment workflow
+* Rollback support
+* Systemd and reverse proxy integration
+
+---
+
+### OpsPilot AI
+
+AI-assisted DevOps operations platform designed to streamline infrastructure monitoring, alerting, operational diagnostics, and engineering workflows.
+
+**Current Capabilities**
 
 * Linux server monitoring
 * Docker monitoring
-* Jenkins build monitoring
+* Jenkins monitoring
 * Telegram alerting
-* Alert history & analytics
-* AI-ready operational architecture
-
-#### Tech
-
-FastAPI • Docker • Jenkins • Telegram Bot API • SQLite/PostgreSQL • Monitoring & Alerting
+* Alert history tracking
+* Operational analytics
 
 ---
 
-## 📚 Currently Learning
+### SentinelStack
 
-* AWS Certified Solutions Architect – Associate (SAA-C03)
+Open-source observability platform focused on monitoring, logging, alerting, and operational visibility for modern infrastructure environments.
+
+**Technology Stack**
+
+* Prometheus
+* Grafana
+* Loki
+* Promtail
+* Docker
+* Linux
+
+---
+
+## Technology Stack
+
+**Cloud & Infrastructure**
+
+AWS • Terraform • Linux • Docker • Kubernetes • Nginx
+
+**CI/CD & Automation**
+
+Jenkins • GitLab CI/CD • GitHub Actions
+
+**Monitoring & Observability**
+
+Prometheus • Grafana • Loki • Alerting Systems
+
+**Backend Development**
+
+Golang • Python • PHP • FastAPI • Django
+
+**Databases**
+
+PostgreSQL • MySQL • Redis
+
+---
+
+## Current Learning Path
+
+* AWS Solutions Architect Associate (SAA-C03)
 * Terraform Associate
-* Advanced Cloud Architecture
-* Kubernetes & Platform Engineering
+* Kubernetes Administration
+* Cloud-Native Platform Engineering
+* DevSecOps Practices
 
 ---
 
-## 🎯 Engineering Philosophy
+## Engineering Philosophy
 
-> “Compete on judgment, not speed.”
+> Compete on judgment, not speed.
 
-Modern engineering is no longer only about writing code faster.
+Technology changes rapidly, but sound engineering principles remain constant.
 
-The real value comes from:
-
-* choosing the right architecture
-* understanding tradeoffs
-* managing production risk
-* building reliable systems
-* knowing what should and should not be automated
+I believe successful systems are built through thoughtful architecture, operational excellence, risk management, observability, automation, and continuous improvement.
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-* [LinkedIn](https://www.linkedin.com/in/mia-abdullah-shekhar/)
-* [shkhrabdullah@gmail.com](mailto:shkhrabdullah@gmail.com)
+LinkedIn:
+linkedin.com/in/mia-abdullah-shekhar
 
----
-
-⭐ Passionate about DevOps, cloud infrastructure, automation, and building reliable production systems.
+Email:
+[shkhrabdullah@gmail.com](mailto:shkhrabdullah@gmail.com)
