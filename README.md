@@ -1,5 +1,7 @@
 # 👋 Assalamu Alaikum, I'm Mia Abdullah Shekhar
 
+![](https://komarev.com)
+
 ### Senior Backend & DevOps Engineer | Cloud Infrastructure | Platform Reliability | CI/CD Automation
 
 I am a software and infrastructure engineer with experience designing, building, deploying, and operating production systems across backend engineering, DevOps, cloud infrastructure, and platform operations.
