@@ -1,6 +1,6 @@
-# 👋 Assalamu Alaikum, I'm Mia Abdullah Shekhar
-
 ![](https://komarev.com/ghpvc/?username=shekhar396)
+
+# 👋 Assalamu Alaikum, I'm Mia Abdullah Shekhar 
 
 ### Senior Backend & DevOps Engineer | Cloud Infrastructure | Platform Reliability | CI/CD Automation
 
